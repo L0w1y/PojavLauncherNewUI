@@ -6,6 +6,8 @@
 
 # PojavLauncher
 
+Official project is [here](https://github.com/PojavLauncherTeam/PojavLauncher)
+
 ## Note
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - The official Twitter for PojavLauncher is [@PLaunchTeam](https://twitter.com/PLaunchTeam). Any others (most notably @PojavLauncher) are fake, please report them to Twitter's moderation team.
@@ -104,4 +106,4 @@ Contributions are welcome! We welcome any type of contribution, not only code. A
 - [LWJGLX](https://github.com/PojavLauncherTeam/lwjglx) (LWJGL2 API compatibility layer for LWJGL3): unknown license.<br>
 - [pro-grade](https://github.com/pro-grade/pro-grade) (Java sandboxing security manager): [Apache License 2.0](https://github.com/pro-grade/pro-grade/blob/master/LICENSE.txt).
 - [xHook](https://github.com/iqiyi/xHook) (Used for exit code trapping): [MIT and BSD-style licenses](https://github.com/iqiyi/xHook/blob/master/LICENSE)
-
+- Official project is [here](https://github.com/PojavLauncherTeam/PojavLauncher)
