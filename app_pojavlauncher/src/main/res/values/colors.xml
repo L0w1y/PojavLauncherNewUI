@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //black theme - bt
+    <color name="window_background_bt">#111111</color>
+    <color name="input_field_bt">#222222</color>
+    <color name="textarea_bt">#ffffff</color>
+    <color name="checkbox_bt">#313131</color>
+    //light theme - lt
+    <color name="window_background_lt">#ffffff</color>
+    <color name="input_field_lt">#818181</color>
+    <color name="textarea_lt">#000000</color>
+    <color name="checkbox_lt">#777777</color>
+</resources>
